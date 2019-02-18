@@ -1,4 +1,4 @@
-package com.csii.helloquartz.demo2;
+package com.suzl.helloquartz.demo2;
 
 import org.quartz.*;
 import org.quartz.impl.StdSchedulerFactory;

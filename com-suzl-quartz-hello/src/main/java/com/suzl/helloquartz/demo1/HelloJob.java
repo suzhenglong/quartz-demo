@@ -1,4 +1,4 @@
-package com.csii.helloquartz.demo1;
+package com.suzl.helloquartz.demo1;
 
 import org.quartz.*;
 

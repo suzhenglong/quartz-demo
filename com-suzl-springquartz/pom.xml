@@ -4,15 +4,15 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>quartz-demo</artifactId>
-        <groupId>com.csii</groupId>
+        <groupId>com.suzl</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>com-csii-springquartz</artifactId>
+    <artifactId>com-suzl-springquartz</artifactId>
     <packaging>war</packaging>
 
-    <name>com-csii-springquartz Maven Webapp</name>
+    <name>com-suzl-springquartz Maven Webapp</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 
@@ -32,7 +32,7 @@
     </dependencies>
 
     <build>
-        <finalName>com-csii-springquartz</finalName>
+        <finalName>com-suzl-springquartz</finalName>
         <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
             <plugins>
                 <plugin>
